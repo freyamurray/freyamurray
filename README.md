@@ -1,5 +1,5 @@
 <h1 align="left">⋆˚✿˖° Hi, I'm Freya Murray (she/her)⋆˚✿˖°</h1>
-<h4 align="left">I'm a special education TA by day, and an aspiring front-end developer by night.</h4>
+<h3 align="left">I'm a special education TA by day, and an aspiring front-end developer by night.</h3>
 <p align="left">I'm passionate about building sites that are beautiful, functional, and accessible! <br> Find me on the indie web at <a href="https://freyas-files.nekoweb.org">freyas-files</a>! </p>
 
 <h3 align="left">Languages and Tools:</h3>
